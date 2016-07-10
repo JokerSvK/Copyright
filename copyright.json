@@ -1,0 +1,47 @@
+{
+  "room":   "ℂơℙẙℜïǤℌŦ㍐ ℳṻṨïℂ ",
+  "author": "™ℂơℙẙℜïǤℌŦ㍐",
+  "icon":   "https://vgy.me/ZMvBhJ.png",
+  "css":    "",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       "#9C0",
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#FB3",
+    "silversubscriber": null,
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "https://vgy.me/rdnkXw.jpg",
+    "playback":         "https://vgy.me/Ymb7vt.png",
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "https://vgy.me/xzGl7r.png",
+    "cohost":           "https://vgy.me/4xpAHa.png",
+    "manager":          "https://vgy.me/LNJyPX.png",
+    "bouncer":          "https://vgy.me/Yh8lpk.png",
+    "rdj":              "https://vgy.me/ff3ChJ.png",
+    "subscriber":       "https://vgy.me/8784Cm.png",
+    "silversubscriber": null
+  },
+  "autocomplete": [],
+  "emotes": {
+    "pls": "https://vgy.me/7cjaRY.png",
+    "fuck": "https://vgy.me/upWRM8.png"
+  }
+}
