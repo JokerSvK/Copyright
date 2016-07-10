@@ -1,4 +1,4 @@
-/* CSS by Copyright */
+/* Original CSS by ™ℂơℙẙℜïǤℌŦ㍐ */
 
 /* keyframes */
 
@@ -1077,3 +1077,32 @@
 #user-inventory .history .row:nth-last-child(1) .item {border-radius: 0 0 0 20px;}
 #user-inventory .history .row .col {box-shadow: -1px 0 0 0 hsl(210,50%,20%) !important;}
 #user-inventory .history .jspPane .row {border-color: hsl(210,50%,20%); !important}
+
+/*--[badges and accessories]--*/
+
+/* ™ℂơℙẙℜïǤℌŦ㍐ */
+
+.id-15697611 .meta .username:after {
+		content: "\A" url('https://vgy.me/98k8pD.png') "CSS creator";
+		white-space: pre;
+		font-size: 10pt;
+		display: block;
+		margin-top: 50px;
+		color: #0000FF;
+		font-weight: bold;
+		cursor: text;
+}
+[data-cid^="15697611-"] .msg .from .un {
+		position: relative;
+		left: -1px;
+		padding-left: 18px;
+		background-image: url('https://vgy.me/bSEc6J.gif');
+		background-repeat: no-repeat;
+		background-position: -1px center;
+		background-size: 16px auto;
+}
+#chat [data-cid^="15697611-"] .bdg {
+		background: url('https://vgy.me/AWNM7U.gif') !important;
+		background-position: 0px 0px;
+}
+
