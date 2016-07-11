@@ -70,13 +70,6 @@
 	border-left: 10px solid transparent !important;
 	border-bottom: 10px solid transparent !important;
 }
-#playback .background {
-	visibility: hidden;
-}
-.video-only #playback-container {
-	box-shadow: none;
-	border: none !important;
-}
 .video-only #pi-rmvDJ, .video-only #pi-skip {
 	display: none;
 }
